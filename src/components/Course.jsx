@@ -29,13 +29,10 @@ const Course = () => {
             <span className="text-yellow-400">Digital Library</span>
           </h1>
           <p className="mt-12">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro,
-            assumenda? Repellendus, iste corrupti? Tempore laudantium
-            repellendus accusamus accusantium sed architecto odio, nisi expedita
-            quas quidem nesciunt debitis dolore non aspernatur praesentium
-            assumenda sint quibusdam, perspiciatis, explicabo sequi fugiat amet
-            animi eos aut. Nobis quisquam reiciendis sunt quis sed magnam
-            consequatur!
+            Welcome to the Digital Library of faQirChandBooks, a timeless treasure trove for book lovers and knowledge seekers.
+             Rooted in decades of literary tradition, our library seamlessly blends a rich legacy with modern digital accessibility.
+              Explore an expansive collection that spans classic literature, contemporary fiction, rare manuscripts, academic works, and niche genres—all curated with passion and care. 
+              Whether you're in search of ancient philosophy, bestselling thrillers, regional literature, or emerging authors, our platform offers a thoughtfully organized, intuitive reading experience. With powerful search tools, personalized recommendations, and cross-device accessibility, our digital library invites readers of every age and interest to immerse themselves in stories that educate, inspire, and endure.
           </p>
 
           
