@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import Login from './Login';
 import Logout from './Logout';
+import { Link } from 'react-router-dom';
 import { useAuth } from '../context/authProvider';
 
 const NavBar = () => {
@@ -30,14 +31,14 @@ const NavBar = () => {
 
     const navitems = (<>
             <li>
-            <a href='/'>
+            <Link to='/'>
                 Home
-            </a>
+            </Link>
         </li>
          <li>
-            <a href='/explore'>
+            <Link to='/explore'>
                 Explore
-            </a>
+            </Link>
         </li>
     </>)
   return (
